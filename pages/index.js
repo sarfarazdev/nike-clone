@@ -16,12 +16,12 @@ export default function Home() {
         <link rel="icon" href="/nike.png" />
       </Head>
       <Header />
-      {/* <Main1 />
+      <Main1 />
       <Newarrivals />
       <SpotLight />
       <Makeout />
       <Morenike />
-      <Footer /> */}
+      <Footer />
     </div>
   )
 }
