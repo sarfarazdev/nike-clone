@@ -33,13 +33,13 @@ function Header() {
                                 <li><a>Item 1</a></li>
                                 <li><a>Item 2</a></li>
                             </ul>
-                        </div><div className="dropdown dropdown-hover">
+                        </div><div className="dropdown dropdown-left">
                             <label tabIndex={0} className=" mr-5 hover:text-gray-900">Customise</label>
                             <ul tabIndex={0} className="dropdown-content menu p-2 shadow bg-base-100 rounded-box w-52">
                                 <li><a>Item 1</a></li>
                                 <li><a>Item 2</a></li>
                             </ul>
-                        </div><div className="dropdown dropdown-hover">
+                        </div><div className="dropdown dropdown-left ">
                             <label tabIndex={0} className=" mr-5 hover:text-gray-900">Sale</label>
                             <ul tabIndex={0} className="dropdown-content menu p-2 shadow bg-base-100 rounded-box w-52">
                                 <li><a>Item 1</a></li>
